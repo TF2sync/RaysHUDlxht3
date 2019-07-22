@@ -1,5 +1,5 @@
 # RaysHUDlxth3
-A version of RaysHUD made especially for the youtuber Lxth3
+A version of RaysHUD made especially for the youtuber Lxht3
 
 ## [DOWNLOAD](https://drive.google.com/open?id=1IVMXd20ybJyeGZ5zIuLLb8zI56owYRVK)
 
