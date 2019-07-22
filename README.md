@@ -12,7 +12,7 @@ A version of RaysHUD made especially to the youtuber Lxth3
 
 `C://Program Files (x86)/Steam/steamapps/Common/Team Fortress 2/tf/custom`
 
-(**NOTE**: Be sure that there are no other HUD folders in your custom folder, or the HUD may not work properly
+(**NOTE**: Be sure that there are no other HUD folders in your custom folder, or the HUD may not work properly)
 
 
 
