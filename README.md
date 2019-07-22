@@ -6,7 +6,7 @@ A version of RaysHUD made especially for the youtuber Lxht3
 ## HOW TO INSTALL
 
 1. Click in the link above
-2. Click in `RaysHUDlxth3`
+2. Click in `RaysHUDlxht3`
 3. Click in `Download`
 4. Drag the folder into your custom folder, located at:
 
