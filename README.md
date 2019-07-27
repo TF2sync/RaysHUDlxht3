@@ -3,7 +3,7 @@ A version of RaysHUD made especially for the youtuber Lxht3
 
 ## [DOWNLOAD](https://drive.google.com/open?id=1IVMXd20ybJyeGZ5zIuLLb8zI56owYRVK)
 
-## HOW TO INSTALL
+# HOW TO INSTALL
 
 1. Click in the link above
 2. Click in `RaysHUDlxht3`
